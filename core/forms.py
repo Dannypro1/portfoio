@@ -7,3 +7,4 @@ class ContactForm(forms.Form):
         model = Contact
         fields = ['name', 'email', 'message']
         widgets = {}
+
