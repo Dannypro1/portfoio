@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'core.apps.CoreConfig',
     'ckeditor',
     'colorfield',
+    'django_nextjs',
 
 ]
 
